@@ -1,0 +1,52 @@
+
+Service Provider
+
+View All Psychological Data Set Details
+Search Psychology Data Set Details 
+Measure and Predict Psychological Instability
+View Depressed Psychological Instability 
+View Stressed Psychological Instability
+View All Remote Users
+View Comments Like Results
+View Psychology Accuracy Results
+
+
+Remote User
+
+REGISTER AND LOGIN
+ADD PSYCHOLOGY DATA SETS
+SEARCH ON PSYCHOLOGY DATA SET DETAILS
+VIEW YOUR PROFILE
+
+
+
+names
+age
+gender
+country
+state
+self_employeed
+family_history
+treatment
+work_interferes
+No_of_employees
+remote_network
+technical_company
+benefits
+care_options
+welness_program
+seek_help
+anonymity
+leave1
+mental_health_consequence
+physical_health_consequence
+co_workers
+supervisor
+mental_health_interview
+physical_health_interview
+mental_health
+obs_consequence
+Remarks_or_comments
+dislikes
+likes
+
